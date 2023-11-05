@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "bloomhollow:block/drizzlewood_leaves"
+  }
+}

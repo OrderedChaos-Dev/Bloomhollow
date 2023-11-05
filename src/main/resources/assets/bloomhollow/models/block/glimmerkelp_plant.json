@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/tinted_cross",
+  "textures": {
+    "cross": "bloomhollow:block/glimmerkelp_plant"
+  }
+}

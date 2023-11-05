@@ -1,0 +1,8 @@
+{
+  "variants": {
+        "facing=south": { "model": "bloomhollow:block/brightshroom" },
+        "facing=west": { "model": "bloomhollow:block/brightshroom", "y": 90 },
+        "facing=north": { "model": "bloomhollow:block/brightshroom", "y": 180 },
+        "facing=east": { "model": "bloomhollow:block/brightshroom", "y": 270 }
+  }
+}

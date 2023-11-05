@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "bloomhollow:stripped_drizzlewood_log",
+    "bloomhollow:stripped_azure_willow_log",
+    "bloomhollow:stripped_beryl_willow_log",
+    "bloomhollow:drizzlewood_log",
+    "bloomhollow:azure_willow_log"
+  ]
+}

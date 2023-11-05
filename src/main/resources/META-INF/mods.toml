@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/OrderedChaos-Dev/Bloomhollow/issues"
+
+[[mods]]
+modId="bloomhollow"
+version="${file.jarVersion}"
+displayName="Bloomhollow"
+displayURL="https://www.ordered-chaos.dev/"
+logoFile="examplemod.png" #optional
+credits="My three geckos: soup, stew, and broth"
+authors="OrderedChaosDev"
+description='''
+Cave-like dimension illuminated by bioluminescent flora
+'''

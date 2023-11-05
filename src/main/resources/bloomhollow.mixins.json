@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "bloomhollow.core.mixin",
+	"minVersion": "0.8",
+	"refmap": "projectvibrantjourneys.refmap.json",
+	"mixins": [],
+	"client": [
+		"client.GuiMixin"
+	]
+	
+}

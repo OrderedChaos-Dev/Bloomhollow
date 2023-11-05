@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "bloomhollow:block/beryl_willow_vines"
+  }
+}

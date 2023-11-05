@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "color=none": {
+      "model": "bloomhollow:block/flux_vines"
+    },
+    "color=orange": {
+      "model": "bloomhollow:block/flux_vines_berried_orange"
+    },
+    "color=yellow": {
+      "model": "bloomhollow:block/flux_vines_berried_yellow"
+    },
+    "color=blue": {
+      "model": "bloomhollow:block/flux_vines_berried_blue"
+    }
+  }
+}

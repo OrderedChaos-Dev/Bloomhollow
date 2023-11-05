@@ -1,0 +1,19 @@
+{
+	"biome.bloomhollow.rainfall_canopy": "Rainfall Canopy",
+	"biome.bloomhollow.shroomlit_gardens": "Shroomlit Gardens",
+	"biome.bloomhollow.restless_undergrowth": "Restless Undergrowth",
+	"biome.bloomhollow.luminous_columns": "Luminous Columns",
+	"biome.bloomhollow.crystal_chasm": "Crystal Chasm",
+	
+	"block.bloomhollow.shadestone": "Shadestone",
+	"block.bloomhollow.grassy_shadestone": "Grassy Shadestone",
+	
+	"block.bloomhollow.downpour_flower": "Downpour Plant",
+	"block.bloomhollow.flux_vines": "Flux Vine",
+	"block.bloomhollow.brightshroom": "Brightshroom",
+	"block.bloomhollow.shining_angel_fungus": "Shining Angel Fungus",
+	"block.bloomhollow.shining_teal_fungus": "Shining Teal Fungus",
+	"block.bloomhollow.shining_indigo_fungus": "Shining Indigo Fungus",
+	
+	"itemGroup.bloomhollow": "Bloomhollow"
+}

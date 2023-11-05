@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "bloomhollow:block/flux_vines_berried_yellow"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "bloomhollow:block/downpour_flower",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "bloomhollow:block/downpour_flower"
+    },
+    "facing=south": {
+      "model": "bloomhollow:block/downpour_flower",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bloomhollow:block/downpour_flower",
+      "y": 270
+    }
+  }
+}

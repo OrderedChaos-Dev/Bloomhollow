@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "bloomhollow:block/beryl_willow_leaves"
+  }
+}

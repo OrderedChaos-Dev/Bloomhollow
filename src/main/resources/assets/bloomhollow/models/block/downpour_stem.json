@@ -1,0 +1,37 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"0": "bloomhollow:block/downpour_stem",
+		"particle": "bloomhollow:block/downpour_stem"
+	},
+	"elements": [
+		{
+			"name": "cross1",
+			"from": [-8.5, 0, 14.75],
+			"to": [1.5, 16, 14.75],
+			"rotation": {"angle": 45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [3, 0, 13, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [3, 0, 13, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 10, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 10, 0], "texture": "#0"}
+			}
+		},
+		{
+			"name": "cross2",
+			"from": [-3.25, 0, 10],
+			"to": [-3.25, 16, 20],
+			"rotation": {"angle": 45, "axis": "y", "origin": [0, 0, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [3, 0, 13, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [3, 0, 13, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 10, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 10, 0], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
+}

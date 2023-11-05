@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bloomhollow:block/bloomhollow_portal_ns"
+    },
+    "axis=z": {
+      "model": "bloomhollow:block/bloomhollow_portal_ew"
+    }
+  }
+}

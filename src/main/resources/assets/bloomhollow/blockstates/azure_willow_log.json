@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "bloomhollow:block/azure_willow_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "bloomhollow:block/azure_willow_log"
+    },
+    "axis=z": {
+      "model": "bloomhollow:block/azure_willow_log_horizontal",
+      "x": 90
+    }
+  }
+}
